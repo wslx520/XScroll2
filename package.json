@@ -1,0 +1,28 @@
+{
+    "name": "xscroll2",
+    "version": "1.0.0",
+    "description": "javascript图片切换类，简单",
+    "main": "XScroll2.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wslx520/XScroll2"
+    },
+    "keywords": [
+        "javascript",
+        "mosaic",
+        "picture",
+        "slider",
+        "fade",
+        "图片切换"
+    ],
+    "author": "XLee",
+    "license": "ISC",
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-uglify": "^1.5.3"
+    }
+}
